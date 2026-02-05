@@ -23,8 +23,7 @@ UI виконаний у стилі **Cyberpunk/Sci-Fi**: неон, сітка, 
 
 ## 🎥 Демонстрація
 
-> Тут буде GIF або відео з роботою системи  
-> _(RAW EXECUTE → TRAIN → TEST EXECUTE)_
+https://youtu.be/3Unxr9xsnxw?si=lYGdX5oHtSbXFUiS
 
 ---
 
